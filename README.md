@@ -1,2 +1,2 @@
 # calculadora
-trabajo en grupo
+trabajo en gru
