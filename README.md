@@ -1,5 +1,6 @@
 # calculadora
 Trabajo en grupo:
 realizar operaciones matematicas ,codigo python.
+candela 
 
-candela pamelin
+nancy urig
