@@ -1,4 +1,9 @@
-# calculadora
-trabajo en grupo
+GRUPO 9 # calculadora 
+Trabajo en grupo:
 
-candela pamelin
+realizar operaciones matematicas ,codigo python.
+interantes:
+Candela Pamelin  -- RESTA
+Roxana Mancuello -- MULTIPLICACION
+Natacha Velasco  -- DIVICION
+Natalia Aberghina -- SUMA
