@@ -1,4 +1,7 @@
+ Roxana
+GRUPO 9 # calculado
 GRUPO 9 # Calculadora 
+main
 Trabajo en grupo:
 
 realizar operaciones matematicas ,codigo python.
