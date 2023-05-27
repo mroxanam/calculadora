@@ -1,0 +1,32 @@
+# Función para realizar la división
+def division(dividendo, divisor):
+    """
+    Esta función realiza la división entre el dividendo y el divisor.
+
+    Args:
+        dividendo (float): El número que se va a dividir.
+        divisor (float): El número por el cual se va a dividir el dividendo.
+
+    Returns:
+        float: El resultado de la división.
+
+    Raises:
+        ZeroDivisionError: Si el divisor es igual a cero.
+
+    """
+    if divisor == 0:
+        raise ZeroDivisionError("¡No se puede dividir entre cero!")
+
+    resultado = dividendo / divisor
+    return resultado
+
+# Pedir al usuario los números a dividir
+dividendo = float(input("Ingrese el dividendo: "))
+divisor = float(input("Ingrese el divisor: "))
+
+# Llamar a la función de división e imprimir el resultado
+try:
+    resultado_division = division(dividendo, divisor)
+    print("El resultado de la división es:", resultado_division)
+except ZeroDivisionError as error:
+    print(error)
