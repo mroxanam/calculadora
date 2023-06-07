@@ -1,6 +1,6 @@
  Roxana
-GRUPO 9 # calculado
-GRUPO 9 # Calculadora 
+GRUPO 8 # calculado
+
 main
 Trabajo en grupo:
 
